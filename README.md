@@ -17,8 +17,8 @@ http://localhost:5173/
 
  ##########################################################
 
-
-# Instalção BANCO de DADOS phpmyadmin XAMPP PORT 3306
+# Instalação Backend
+- Instalção BANCO de DADOS phpmyadmin XAMPP PORT 3306
 Agrupamento do banco
 utf8mb4_general_ci
 
