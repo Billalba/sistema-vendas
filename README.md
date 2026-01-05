@@ -22,7 +22,7 @@ http://localhost:5173/
 Agrupamento do banco
 utf8mb4_general_ci
 
-vendas-api >  database - importe o banco populado vendas_db_teste.sql dentro do phpmyadmin para aparecer com vendas realizadas de teste
+vendas-api >  database - Crie a base vendas_db_teste e importe o banco populado vendas_db_teste.sql dentro do MySql para aparecer com vendas realizadas de teste
 OU
 vendas-api >  database - importe o schema.sql e seeds.sql com apenas Clientes e Produtos
 
